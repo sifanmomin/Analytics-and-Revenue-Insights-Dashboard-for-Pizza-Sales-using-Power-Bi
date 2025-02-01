@@ -4,7 +4,7 @@
 
 
 
-![App Screenshot](https://github.com/tarundirector/HR-Analytics-using-PowerBI/assets/85684655/448b794e-dea6-41ae-bcfa-72ec64c56b17)
+![App Screenshot](https://github.com/sifanmomin/Analytics-and-Revenue-Insights-Dashboard-for-Pizza-Sales-using-Power-Bi/blob/main/Screenshot%202025-02-01%20112812.png)
 
 ![App Screenshot](https://github.com/tarundirector/HR-Analytics-using-PowerBI/assets/85684655/8e8c76a2-164b-483e-b5b8-c30649272ac9)
 
