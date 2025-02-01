@@ -313,14 +313,14 @@ My initial step involved the addition of key measures that serve as the foundati
 
 With measures in place, I crafted essential Key Performance Indicators (KPIs) to gauge critical aspects of the business, such as Total Orders, Total Pizzas Sold, and Total Revenue. These KPIs provide a quick and comprehensive overview of the outlet's performance.
 
-![App Screenshot](https://github.com/tarundirector/HR-Analytics-using-PowerBI/assets/85684655/224aed93-db36-48ac-bb80-e917311c6799)
+![App Screenshot](https://github.com/sifanmomin/Analytics-and-Revenue-Insights-Dashboard-for-Pizza-Sales-using-Power-Bi/blob/main/Screenshot%202025-02-01%20112844.png)
 
 
 ### 3. Chart Development:
 
 Following KPIs, my focus shifted to the creation of diverse charts, aligning with the specified requirements. Stacked bar charts for hourly trends, line charts for weekly trends, pie charts depicting sales distribution, funnel charts for category-specific sales, and bar charts spotlighting top and bottom performers were meticulously designed to provide a visually engaging representation of the data.
 
-<img src="https://github.com/tarundirector/HR-Analytics-using-PowerBI/assets/85684655/0daaf316-e597-4091-a3c2-abc85860caa0" width="400">
+<img src="https://github.com/sifanmomin/Analytics-and-Revenue-Insights-Dashboard-for-Pizza-Sales-using-Power-Bi/blob/main/Screenshot%202025-02-01%20112844.png" width="400">
 
 
 
