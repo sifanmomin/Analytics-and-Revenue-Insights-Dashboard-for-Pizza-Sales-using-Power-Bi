@@ -10,7 +10,7 @@
 
 ## **Problem Statement**:
 
-In this project, I aim to leverage the data from a pizza outlet's sales records to gain valuable insights and present them through an interactive dashboard created using Tableau. The dataset encompasses various features that provide a comprehensive view of the pizza sales dynamics.
+In this project, I aim to leverage the data from a pizza outlet's sales records to gain valuable insights and present them through an interactive dashboard created using Power Bi. The dataset encompasses various features that provide a comprehensive view of the pizza sales dynamics.
 
 The dataset contains the following features:
 
@@ -335,4 +335,4 @@ By verifying dashboard outputs against SQL-calculated values, I instilled confid
 
 ## 🚀 Conclusion
 
-In conclusion, this Tableau-driven Pizza Sales Analytics Dashboard not only meets the client's requirements but goes beyond, offering a comprehensive view of the business dynamics. From key performance indicators to visually compelling charts, each element is meticulously crafted to provide actionable insights for the outlet owner. The integration of SQL queries ensures data accuracy, validating the dashboard's reliability. This analytics tool stands as a valuable asset for strategic decision-making and operational optimization in the dynamic realm of pizza sales.
+In conclusion, this Power Bi-driven Pizza Sales Analytics Dashboard not only meets the client's requirements but goes beyond, offering a comprehensive view of the business dynamics. From key performance indicators to visually compelling charts, each element is meticulously crafted to provide actionable insights for the outlet owner. The integration of SQL queries ensures data accuracy, validating the dashboard's reliability. This analytics tool stands as a valuable asset for strategic decision-making and operational optimization in the dynamic realm of pizza sales.
