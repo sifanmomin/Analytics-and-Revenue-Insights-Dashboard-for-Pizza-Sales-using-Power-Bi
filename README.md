@@ -298,7 +298,7 @@ ORDER BY Total_Orders ASC
 
 In crafting a comprehensive dashboard in Power BI, I followed a systematic approach to ensure accurate representation and insightful analysis. Here's an overview of the steps I took:
 
-![App Screenshot](https://github.com/tarundirector/HR-Analytics-using-PowerBI/assets/85684655/448b794e-dea6-41ae-bcfa-72ec64c56b17)
+![App Screenshot](https://github.com/sifanmomin/Analytics-and-Revenue-Insights-Dashboard-for-Pizza-Sales-using-Power-Bi/blob/main/Screenshot%202025-02-01%20112844.png)
 
 ### 1. Measures Addition:
 
@@ -313,7 +313,7 @@ My initial step involved the addition of key measures that serve as the foundati
 
 With measures in place, I crafted essential Key Performance Indicators (KPIs) to gauge critical aspects of the business, such as Total Orders, Total Pizzas Sold, and Total Revenue. These KPIs provide a quick and comprehensive overview of the outlet's performance.
 
-![App Screenshot](https://github.com/sifanmomin/Analytics-and-Revenue-Insights-Dashboard-for-Pizza-Sales-using-Power-Bi/blob/main/Screenshot%202025-02-01%20112844.png)
+![App Screenshot](https://github.com/sifanmomin/Analytics-and-Revenue-Insights-Dashboard-for-Pizza-Sales-using-Power-Bi/blob/main/Screenshot%202025-02-01%20115614.png)
 
 
 ### 3. Chart Development:
