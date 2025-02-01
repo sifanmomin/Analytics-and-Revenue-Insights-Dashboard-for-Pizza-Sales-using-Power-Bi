@@ -1,6 +1,6 @@
 
 
-# **📊 Analytics & Revenue Insights Dashboard for Pizza Sales using Tableau 🍕💡**
+# **📊 Analytics & Revenue Insights Dashboard for Pizza Sales using Power_bi 🍕💡**
 
 
 
